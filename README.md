@@ -339,6 +339,7 @@
 ## 参考资料
 
 - [中文文案排版指北](https://github.com/sparanoid/chinese-copywriting-guidelines#%E5%B0%88%E6%9C%89%E5%90%8D%E8%A9%9E%E4%BD%BF%E7%94%A8%E6%AD%A3%E7%A2%BA%E7%9A%84%E5%A4%A7%E5%B0%8F%E5%AF%AB)
+- [中文写作风格指南](https://github.com/richardchien/chinese-writing-style-guide)
 - [魅族写作手册](https://github.com/silenk1n/meizu_style_guide/blob/master/guide.md)
 - [豌豆荚文案风格指南](https://docs.google.com/document/d/1R8lMCPf6zCD5KEA8ekZ5knK77iw9J-vJ6vEopPemqZM/edit#heading=h.wwm9rx-11m0cb)
 - [知乎的提问规范有哪些？](https://www.zhihu.com/question/19806261)
@@ -346,4 +347,3 @@
 - [省略号](https://zh.wikipedia.org/wiki/%E7%9C%81%E7%95%A5%E5%8F%B7)
 - [中文数字](https://zh.wikipedia.org/wiki/%E4%B8%AD%E6%96%87%E6%95%B0%E5%AD%97)
 - [标点符号用法](http://www.moe.gov.cn/ewebeditor/uploadfile/2015/01/13/20150113091548267.pdf)
-- [中文写作风格指南](https://github.com/richardchien/chinese-writing-style-guide)
